@@ -10,3 +10,6 @@
 
 - ER-Diagram
 ![erdImg](https://github.com/ABOUTRIP/artifacts/assets/49120917/1dd1bf54-7c78-4ee3-b80d-de1d841e7002)
+
+- Class Diagram
+![classDiagram](https://github.com/ABOUTRIP/artifacts/assets/49120917/1a0e5a36-e741-4951-b9ec-3fa547e88b82)
