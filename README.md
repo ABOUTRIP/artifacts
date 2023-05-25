@@ -7,3 +7,6 @@
 
 - Use Case Diagram
 <img width="864" alt="usecase-image" src="https://github.com/ABOUTRIP/artifacts/assets/49120917/75f7d223-91b3-4576-992f-5f2763b53f33">
+
+- ER-Diagram
+![erdImg](https://github.com/ABOUTRIP/artifacts/assets/49120917/1dd1bf54-7c78-4ee3-b80d-de1d841e7002)
