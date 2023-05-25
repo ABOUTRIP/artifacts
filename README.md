@@ -2,5 +2,5 @@
 
 # 02-김예빈-우찬희
 
-- [api 설계]("./api.md")
-- [화면 설계서]("./wireframe.md")
+- [api 설계(swagger)](https://github.com/ABOUTRIP/artifacts/blob/main/api.md)
+- [화면설계서(wireframe - figma)](https://github.com/ABOUTRIP/artifacts/blob/main/wireframe.md)
